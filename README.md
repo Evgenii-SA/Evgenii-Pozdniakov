@@ -12,6 +12,8 @@ https://hh.ru/resume/ef03cd5cff0f2f1a890039ed1f39775a684c43
 ✉ 5553153@gmail.com  
 📞 +7 (916) 555-31-53
 ➤ [Telegram](https://t.me/Coal_Juice)
+✉ 5553153@gmail.com  
+📞 +7 (916) 555-31-53
 
 ---
 
