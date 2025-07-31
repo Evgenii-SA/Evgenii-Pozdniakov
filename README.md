@@ -6,7 +6,7 @@
 NDA соблюдается, документы не содержат конфиденциальных данных.
 
 **Резюме:**  
-[https://hh.ru/resume/ef03cd5cff0f2f1a890039ed1f39775a684c43]
+https://hh.ru/resume/ef03cd5cff0f2f1a890039ed1f39775a684c43
 
 **Контакты:**  
 ✉ 5553153@gmail.com  
