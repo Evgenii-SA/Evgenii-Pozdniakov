@@ -19,40 +19,40 @@ NDA соблюдается, документы не содержат конфи�
 *Платформа онлайн-курсов для повышения квалификации взрослых: регистрация преподавателей, управление курсами, работа с отзывами, приём платежей.*  
 
 - 📄 **Документация**  
-  - [User Stories: Регистрация преподавателя в платформе](https://github.com/getanalyst/U-Verse/blob/main/docs/UserStories.md)
-  - [User Stories: Оплата курса](https://github.com/getanalyst/U-Verse/blob/main/docs/UserStories.md)
-  - [Use Case: Публикация отзыва на курс](https://github.com/getanalyst/U-Verse/blob/main/docs/UseCases/BasicUseCases.md)  
-  - [Use Case: Оплата курса через РайфПэй](https://github.com/getanalyst/U-Verse/blob/main/docs/UseCases/IntegrationUseCases.md)  
-  - [Задача на Frontend: Экран создания курса](https://github.com/getanalyst/U-Verse/blob/main/docs/Tasks/FrontendTasks.md)
-  - [Задача на Frontend: Экран со списком курсов](https://github.com/getanalyst/U-Verse/blob/main/docs/Tasks/FrontendTasks.md)  
+  - [User Stories: Регистрация преподавателя в платформе]([https://](https://github.com/))
+  - [User Stories: Оплата курса](https://github.com/)
+  - [Use Case: Публикация отзыва на курс](https://github.com/)  
+  - [Use Case: Оплата курса через РайфПэй](https://github.com/)  
+  - [Задача на Frontend: Экран создания курса](https://github.com/g)
+  - [Задача на Frontend: Экран со списком курсов](https://github.com/)  
     
 - 🔗 **Интеграции и API**  
-  - [Postman Workspace](https://www.postman.com/getanalysts/workspace/U-Verse)  
-  - [Postman-документация проекта U-Verse](https://documenter.getpostman.com/view/123456/U-Verse)  
-  - [Swagger (OpenAPI) спецификация U-Verse](https://github.com/getanalyst/U-Verse/blob/main/api/openapi.yaml)
-  - [Задача на REST API: Создание платежа через РайфПэй / Confluence](https://github.com/getanalyst/U-Verse/blob/main/docs/Tasks/ApiTasks.md)  
+  - [Postman Workspace](https://www.postman.com/)  
+  - [Postman-документация проекта U-Verse](https://documenter.getpostman.com/)  
+  - [Swagger (OpenAPI) спецификация U-Verse](https://github.com/)
+  - [Задача на REST API: Создание платежа через РайфПэй / Confluence](https://github.com/)  
  
   
 - 🗄 **База данных и SQL**  
-  - [ER-диаграмма (физический уровень) / dbdiagram.io](https://github.com/getanalyst/U-Verse/blob/main/db/ERD_Physical.png)  
-  - [Исходник СУБД SQLite проекта U-Verse](https://github.com/getanalyst/U-Verse/blob/main/db/UVerse.db)  
-  - [SQL-запросы к БД U-Verse](https://github.com/getanalyst/U-Verse/blob/main/db/queries.sql)
-  - [БД: Задача на создание таблицы course / Confluence](https://github.com/getanalyst/U-Verse/blob/main/docs/Tasks/DbTasks.md)  
+  - [ER-диаграмма (физический уровень) / dbdiagram.io](https://github.com)  
+  - [Исходник СУБД SQLite проекта U-Verse](https://github.com/)  
+  - [SQL-запросы к БД U-Verse](https://github.com/)
+  - [БД: Задача на создание таблицы course / Confluence](https://github.com/)  
  
   
 - 📊 **Схемы и диаграммы**  
-  - [BPMN-диаграммы (Camunda)](https://github.com/getanalyst/U-Verse/blob/main/diagrams/BPMN_Diagrams.pdf)  
-  - [UML Sequence (PlantUML)](https://github.com/getanalyst/U-Verse/blob/main/diagrams/Sequence_Diagrams.pdf)  
-  - [C4-модель архитектуры (draw.io)](https://github.com/getanalyst/U-Verse/blob/main/diagrams/C4_Architecture.png)
+  - [BPMN-диаграммы (Camunda)](https://github.com/)  
+  - [UML Sequence (PlantUML)](https://github.com/)  
+  - [C4-модель архитектуры (draw.io)](https://github.com/)
  
     
 - 🎨 **Прототипы UI**  
-  - [Figma](https://www.figma.com/file/XYZ/U-Verse-UI-Prototypes)
+  - [Figma](https://www.figma.com/)
  
     
 - 🚀 **Мини-проекты**  
-  - [Landing Page (GitHub Pages)](https://ekaterinaananeyeva.github.io/U-Verse-Landing)  
-  - [React-демо](https://github.com/getanalyst/U-Verse-React-Demo)  
+  - [Landing Page (GitHub Pages)](https://)  
+  - [React-демо](https://github.com/)  
 
 
 **Ключевые навыки:**  
